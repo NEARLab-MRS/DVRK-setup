@@ -1,0 +1,12 @@
+{
+    // see https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Configuration-File-Formats
+    "kinematic": "kinematic/psm.json"
+    , "generation": "Classic"
+    , "tool-detection": "FIXED",
+    //"tool": "CADIERE_FORCEPS:400049[..]"
+    "tool":"LARGE_NEEDLE_DRIVER:400006[11]"
+    //"tool":"MONOPOLAR_CURVED_SCISSORS:400179[..]"
+    //  "CADIERE_FORCEEPS:420049[..]"
+    // , "tool-detection": "FIXED"
+    //, "tool-detection": "AUTOMATIC"
+}

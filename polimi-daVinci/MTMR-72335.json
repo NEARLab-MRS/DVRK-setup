@@ -1,0 +1,7 @@
+{
+    // see https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Configuration-File-Formats
+    "kinematic": "kinematic/mtmr.json"
+    , "generation": "Classic"
+    , "gravity-compensation": "gc-MTMR-58081.json"
+    // , "gravity-compensation": "gc-MTMR-72335.json"
+}
